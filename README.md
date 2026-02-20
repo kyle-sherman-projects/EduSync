@@ -1,5 +1,4 @@
 I've created a comprehensive component specification document for EduSync's Teacher Dashboard. The document includes:
-What's Included:
 
 1. Top-Down Architecture
 
